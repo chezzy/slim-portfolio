@@ -1,3 +1,4 @@
 <?php
 require 'routes/home.php';
-require 'routes/posts/new.php';
+require 'routes/works/index.php';
+require 'routes/contact/index.php';
